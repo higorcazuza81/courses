@@ -51,5 +51,4 @@ This repository is intended for educational and professional purposes. If you wo
 
 ## License
 
-This repository is licensed under the MIT License. For more details, refer to the LICENSE file.
-
+This repository is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
