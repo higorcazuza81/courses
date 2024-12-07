@@ -54,11 +54,12 @@ Each course directory contains materials, scripts, and exercises to reinforce ha
   - 02: SQL Queries
   - 03: Joins, Views, and Transactions
 
+### Python Courses
+- **Object-Oriented Programming (OOP) in Python** (Coming Soon)
+
 ### PowerShell Courses
 - **PowerShell: Automate Your Tasks** (Coming Soon)
 
-### Python Courses
-- **Object-Oriented Programming (OOP) in Python** (Coming Soon)
 
 ---
 
