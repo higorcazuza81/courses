@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 1000,
+            "driver": "SQLite",
+            "name": "serenatto",
+            "group": "alura",
+            "database": "${workspaceFolder:03_sql_joins_views_transactions}/db/Serenatto.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
