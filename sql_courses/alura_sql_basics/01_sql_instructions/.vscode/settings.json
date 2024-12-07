@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 1000,
+            "driver": "SQLite",
+            "name": "sqlite",
+            "group": "alura",
+            "database": "${workspaceFolder:alura_sqlite_executando_consultas}/db/sqlite.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "fokus",
+            "group": "alura",
+            "database": "${workspaceFolder:alura_sqlite_executando_consultas}/db/Banco+de+dados+Fokus.db "
+        }
+    ]
+}
