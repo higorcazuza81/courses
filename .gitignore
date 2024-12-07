@@ -172,7 +172,3 @@ Thumbs.db                     # Windows Explorer thumbnails
 ~*.tmp                        # Temporary files
 desktop.ini                   # Windows desktop settings
 
-# -------------------------------
-# Miscellaneous files
-# -------------------------------
-.png                          # Image files
