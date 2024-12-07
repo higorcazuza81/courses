@@ -1,54 +1,75 @@
 # Courses Repository
 
-Welcome to the Courses repository! This central repository is designed to organize and showcase all the courses I have completed or am currently pursuing. Here, you will find projects, materials, and practical exercises related to various key areas of learning essential for my journey as a Quantitative Analyst and Data Scientist.
+Welcome to the **Courses Repository**, where I organize and showcase all the courses I have completed or am currently pursuing as part of my journey to becoming a **Data Engineer** as part of my journey for continuous improvement and learning. This repository highlights my learning path, practical projects, and exercises in key areas essential to building robust skills in data engineering and related fields.
+
+---
 
 ## Overview
 
-This repository serves as a structured and organized collection of my studies, reflecting the evolution of my technical skills across different domains. Each course emphasizes the exploration of concepts, problem-solving approaches, and the practical application of knowledge. This setup facilitates both content review and future project expansion.
+This repository is a structured collection of my studies, reflecting the progression of my technical abilities in areas such as **SQL**, **Python**, **Data Engineering**, and **automation tools**. It demonstrates my commitment to mastering the foundational and advanced skills required for the field while providing a clear timeline of growth and expertise. Each course features:
+
+- **Concept Exploration**: Core principles and theory.
+- **Problem-Solving**: Practical scenarios and exercises.
+- **Application**: Real-world use cases and project development.
+
+This structure facilitates future reference, revision, and portfolio building.
+
+---
 
 ## Repository Structure
 
-The repository is structured to ensure intuitive navigation and easy access to content. Each learning area has its own directory, subdivided into specific courses:
+The repository is organized into directories by subject, with each course documented in its respective folder. This ensures intuitive navigation and easy access:
+
 ```
 /courses
-  └── /sql_courses
-      └── alura_sql_basics
-          ├── 01_sql_instructions
-          ├── 02_sql_queries
-          └── 03_sql_joins_views_transactions
+  ├── /sql_courses
+  │   └── alura_sql_basics
+  │       ├── 01_sql_instructions
+  │       ├── 02_sql_queries
+  │       └── 03_sql_joins_views_transactions
+  ├── /python_courses
+  │   └── oop_in_python
+  ├── /powershell_courses
+      └── automate_tasks
 ```
 
-Each course directory contains its own relevant materials and exercises. For example, the `sql_courses` directory contains all my SQL-related coursework, and the `python_courses` directory includes Python projects and exercises.
+Each course directory contains materials, scripts, and exercises to reinforce hands-on learning.
+
+---
 
 ## Highlights
 
-- **Structured Organization**: Courses are divided by learning areas for clarity and ease of navigation.
-- **Hands-On Practice**: Includes scripts, queries, and practical examples developed during the courses, reinforcing applied learning.
-- **Continuous Growth**: The repository is regularly updated with new courses, technologies, and projects, reflecting ongoing personal and professional development.
-- **Professional Presentation**: The structure demonstrates technical competencies in key areas such as SQL, Python, and Data Science, showcasing a commitment to learning and improving technical skills.
+- **Structured Learning Path**: Organized by subject and skill, allowing for easy navigation and reference.
+- **Hands-On Projects**: Includes code, scripts, and practical examples developed during the courses.
+- **Regular Updates**: Continuously updated as I progress through new courses and projects.
+- **Portfolio Ready**: Demonstrates skills in SQL, Python, PowerShell, and Data Engineering, tailored to showcase my capabilities to potential employers or collaborators.
+
+---
 
 ## Courses Currently Uploaded
 
 ### SQL Courses
-
 - **Alura SQL Basics**:
   - 01: SQL Instructions
   - 02: SQL Queries
   - 03: Joins, Views, and Transactions
 
-
-### R Courses
-- R for Data Science (Coming Soon)
-
 ### Python Courses
+- **Object-Oriented Programming (OOP) in Python** (Coming Soon)
 
-- Python for Data Science (Coming Soon)
+### PowerShell Courses
+- **PowerShell: Automate Your Tasks** (Coming Soon)
 
+
+---
 
 ## Contributions
 
-This repository is intended for educational and professional purposes. If you would like to suggest improvements or collaborations, feel free to open an issue or reach out.
+This repository is for educational and professional growth purposes. If you have suggestions for improvements, feel free to open an issue or reach out to collaborate. I welcome feedback that helps refine my learning process or expand the repository’s utility.
+
+---
 
 ## License
 
 This repository is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
+
