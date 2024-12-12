@@ -1,26 +1,26 @@
 # Alura SQL Basics
 
-Welcome to the **Alura SQL Basics** directory! This space is dedicated to the **Alura SQL Basics** course, covering fundamental SQL concepts, from executing basic instructions to manipulating data and building more complex queries. Here, you will find the projects, exercises, and documentation that showcase the progress throughout the course.
+Welcome to the **Alura SQL Basics** course directory! This space is dedicated to showcasing the projects, exercises, and documentation from the Alura SQL Basics course. Here, you will find organized content that highlights my progression and practical applications in SQL.
 
-## Objective
+## Purpose
 
-This directory consolidates the knowledge acquired during the course, highlighting the practical exercises and solutions implemented throughout the lessons. It reflects my learning in basic SQL, with a focus on data manipulation, table creation, and executing essential queries.
+This directory consolidates my learning journey through the Alura SQL Basics course, emphasizing essential concepts, advanced techniques, and their practical use in database management and data analysis. It is designed to provide a structured and professional overview of my skills and projects developed during the course.
 
 ## Directory Structure
 
-The structure of this directory is designed to ensure clarity and ease of navigation through the various course modules:
-```
+The directory is structured to ensure clarity and ease of navigation:
+
+```bash
 /alura_sql_basics
-├── 01_sql_instructions
-│   ├── data/              # Contains data files or scripts for data insertion.
-│   ├── db/                # Database files used or created during the module.
-│   ├── docs/              # Documentation, diagrams, and module-specific README files.
-│   ├── queries/           # SQL scripts for queries practiced during the module.
-│   └── schemas/           # SQL scripts for creating the database schema.
-├── 02_sql_queries
-├── 03_sql_joins_views_transactions
-│           
-└── README.md
+├── /01_sql_instructions
+│   ├── /data       # Contains raw data files or scripts for data insertion.
+│   ├── /db         # Database files used or created during the course.
+│   ├── /docs       # Documentation, diagrams, and course-specific README files.
+│   ├── /queries    # SQL scripts for queries practiced during the course.
+│   └── /schemas    # SQL scripts for database schema creation.
+├── /02_sql_queries
+├── /03_sql_joins_views_transactions
+└── /04_advanced_topics (coming soon)
 ```
 
 ### Directory Breakdown
