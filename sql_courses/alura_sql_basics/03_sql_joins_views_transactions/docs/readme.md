@@ -14,12 +14,11 @@ In this repository, you will find files that include table creation, insertion o
 
 The project follows the directory structure below:
 
-```
-text
+```plaintext
 ├── data
 │   └── insert_data.sql        # Script to insert data into database tables
 ├── db
-│   └── Serenatto.db           # SQLite database containing tables and data
+│   └── Serenatto.db           # SQLite database containing tables and data (not versioned, provided by Alura)
 ├── docs
 │   ├── readme.md              # This file with project information
 │   └── schema_diagram.pdf     # Database schema diagram
