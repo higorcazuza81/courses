@@ -37,7 +37,7 @@ envs/                         # Conda virtual environment directories
 *.sqlite                      # SQLite files
 *.sql-journal                 # SQLite journal files
 *.dump                        # SQL dump files
-
+**/db/
 # -------------------------------
 # VSCode-related files
 # -------------------------------

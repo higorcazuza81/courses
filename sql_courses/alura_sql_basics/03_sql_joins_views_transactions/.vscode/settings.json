@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 1000,
+            "driver": "SQLite",
+            "name": "serenatto",
+            "database": "${workspaceFolder:03_sql_joins_views_transactions}/db/Serenatto.db"
+        }
+    ]
+}
