@@ -6,7 +6,7 @@ Welcome to the **Courses Repository**, where I organize and showcase all the cou
 
 ## Overview
 
-This repository is a structured collection of my studies, reflecting the progression of my technical abilities in areas such as **SQL**, **Python**, **Data Engineering**, and **automation tools**. It demonstrates my commitment to mastering the foundational and advanced skills required for the field while providing a clear timeline of growth and expertise. Each course features:
+This repository is a structured collection of my studies, reflecting the progression of my technical abilities in areas such as **SQL**, **Python**, **Data Engineering**, **automation tools**, and **AWS Cloud for Data Engineering**. It demonstrates my commitment to mastering the foundational and advanced skills required for the field while providing a clear timeline of growth and expertise. Each course features:
 
 - **Concept Exploration**: Core principles and theory.
 - **Problem-Solving**: Practical scenarios and exercises.
@@ -26,11 +26,12 @@ The repository is organized into directories by subject, with each course docume
   │   └── alura_sql_basics
   │       ├── 01_sql_instructions
   │       ├── 02_sql_queries
-  │       └── 03_sql_joins_views_transactions
-  ├── /python_courses
+  │       ├── 03_sql_joins_views_transactions
+  │       └── 04_data_analysis_sql
+  ├── /python_back-end
   │   └── oop_in_python
-  ├── /powershell_courses
-      └── automate_tasks
+  ├──
+
 ```
 
 Each course directory contains materials, scripts, and exercises to reinforce hands-on learning.
@@ -53,12 +54,10 @@ Each course directory contains materials, scripts, and exercises to reinforce ha
   - 01: SQL Instructions
   - 02: SQL Queries
   - 03: Joins, Views, and Transactions
+  - 04: Data Analysis SQL
 
-### Python Courses
+### Python Back-end
 - **Object-Oriented Programming (OOP) in Python** (Coming Soon)
-
-### PowerShell Courses
-- **PowerShell: Automate Your Tasks** (Coming Soon)
 
 
 ---
@@ -72,4 +71,3 @@ This repository is for educational and professional growth purposes. If you have
 ## License
 
 This repository is licensed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
-

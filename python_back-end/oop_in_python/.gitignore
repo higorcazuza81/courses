@@ -172,4 +172,3 @@ Thumbs.db                     # Windows Explorer thumbnails
 ~*.tmp                        # Temporary files
 desktop.ini                   # Windows desktop settings
 
-sql_courses/alura_sql_basics/04_data_analysis_sql/.vscode/settings.json
